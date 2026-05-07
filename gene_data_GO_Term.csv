@@ -1,0 +1,73 @@
+Gene ID,Description,P-value,Category,Chr,Assoc. Traits,Assoc. Traits2,Assoc. Traits3
+Ciclev10008107m,cysteinyl-tRNA aminoacylation,0.000319,Biological Process,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,tRNA aminoacylation for protein translation,0.00494,Biological Process,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,cysteine-tRNA ligase activity,0.000199,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,aminoacyl-tRNA ligase activity,0.00339,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,nucleotide binding,0.00867,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,ATP binding,0.14,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10007256m,protein binding,0.202,Molecular function,1,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10007219m,ubiquitin-protein transferase activity,0.00852,Molecular function,1,GEMMA_area.leaf,,
+Ciclev10007219m,protein binding,0.202,Molecular function,1,GEMMA_area.leaf,,
+Ciclev10010806m,proteolysis,0.041,Biological Process,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10010806m,serine-type peptidase activity,0.00658,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10010806m,serine-type endopeptidase activity,0.00882,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10014634m,transmembrane transport,0.0713,Biological Process,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10014634m,ATPase-coupled transmembrane transporter activity,0.00822,Molecular function,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10014634m,ATP binding,0.14,Molecular function,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10014634m,integral component of membrane,0.221,Cellular component,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10033883m,NA,NA,NA,4,GEMMA_area.petiole_breadth.petiole,GEMMA_lamina.attachment_petiole.wing,
+Ciclev10000608m,DNA-binding transcription factor activity,0.0336,Molecular function,5,GEMMA_lamina.attachment_petiole.wing,,
+Ciclev10000608m,nucleus,0.108,Cellular component,5,GEMMA_lamina.attachment_petiole.wing,,
+Ciclev10008107m,cysteinyl-tRNA aminoacylation,0.000319,Biological Process,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,tRNA aminoacylation for protein translation,0.00494,Biological Process,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,cysteine-tRNA ligase activity,0.000199,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,aminoacyl-tRNA ligase activity,0.00339,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,nucleotide binding,0.00867,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10008107m,ATP binding,0.14,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10007256m,protein binding,0.202,Molecular function,1,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10007219m,ubiquitin-protein transferase activity,0.00852,Molecular function,1,GEMMA_area.leaf,,
+Ciclev10007219m,protein binding,0.202,Molecular function,1,GEMMA_area.leaf,,
+Ciclev10010806m,serine-type peptidase activity,0.00658,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10010806m,serine-type endopeptidase activity,0.00882,Molecular function,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10010806m,proteolysis,0.041,Biological Process,1,GEMMA_area.leaf,GEMMA_breadth.leaf,GEMMA_breadth.petiole
+Ciclev10014634m,transmembrane transport,0.0713,Biological Process,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10014634m,ATPase-coupled transmembrane transporter activity,0.00822,Molecular function,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10014634m,ATP binding,0.14,Molecular function,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10014634m,integral component of membrane,0.221,Cellular component,2,GEMMA_breadth.leaf,GEMMA_breadth.petiole,
+Ciclev10026443m,mediator complex,0.00835,Cellular component,7,GEMMA_area.leaf,,
+Ciclev10026443m,regulation of transcription by RNA polymerase II,0.00613,Biological Process,7,GEMMA_area.leaf,,
+Ciclev10026443m,transcription coregulator activity,0.00194,Molecular function,7,GEMMA_area.leaf,,
+Ciclev10016047m,regulation of transcription,0.0905,Biological Process,2,GEMMA_area.petiole,GEMMA_feret.petiole,
+Ciclev10016516m,vacuolar transport,0.00151,Biological Process,2,GEMMA_area.petiole,GEMMA_feret.petiole,
+Ciclev10014031m,NA,NA,NA,2,GEMMA_area.petiole,GEMMA_feret.petiole,
+Ciclev10018216m,FAD binding,0.00528,Molecular function,2,GEMMA_area.petiole,GEMMA_feret.petiole,
+Ciclev10018216m,flavin adenine dinucleotide binding,0.00837,Molecular function,2,GEMMA_area.petiole,GEMMA_feret.petiole,
+Ciclev10018216m,oxidoreductase activity,0.0446,Molecular function,2,GEMMA_area.petiole,GEMMA_feret.petiole,
+Ciclev10017963m,translation,0.0314,Biological Process,2,GEMMA_feret.petiole,,
+Ciclev10017963m,structural constituent of ribosome,0.0202,Molecular function,2,GEMMA_feret.petiole,,
+Ciclev10017963m,ribosome,0.074,Cellular component,2,GEMMA_feret.petiole,,
+Ciclev10020242m,acyl-CoA metabolic process,0.0000796,Biological Process,3,GEMMA_breadth.leaf,,
+Ciclev10020242m,acyl-CoA hydrolase activity,0.000398,Molecular function,3,GEMMA_breadth.leaf,,
+Ciclev10022961m,ribosome,0.074,Cellular component,3,GEMMA_breadth.leaf,,
+Ciclev10022961m,structural constituent of ribosome,0.0202,Molecular function,3,GEMMA_breadth.leaf,,
+Ciclev10022961m,translation,0.0314,Biological Process,3,GEMMA_breadth.leaf,,
+Ciclev10032692m,proteolysis involved in cellular protein catabolic process,0.00295,Biological Process,4,GEMMA_feret.petiole,,
+Ciclev10032692m,threonine-type endopeptidase activity,0.000697,Molecular function,4,GEMMA_feret.petiole,,
+Ciclev10032692m,proteasome core complex,0.00596,Cellular component,4,GEMMA_feret.petiole,,
+Ciclev10013071m,NA,NA,NA,6,GEMMA_breadth.leaf,,
+Ciclev10025600m,phosphatase activity,0.0116,Biological Process,7,GEMMA_breadth.leaf,,
+Ciclev10030060m,proteolysis,0.041,Biological Process,8,GEMMA_breadth.leaf,,
+Ciclev10030060m,serine-type peptidase activity,0.00658,Molecular function,8,GEMMA_breadth.leaf,,
+Ciclev10030060m,serine-type endopeptidase activity,0.00882,Molecular function,8,GEMMA_breadth.leaf,,
+Ciclev10005012m,DNA-binding transcription factor activity,0.0336,Molecular function,9,GEMMA_feret.petiole,,
+Ciclev10005012m,DNA binding,0.0577,Molecular function,9,GEMMA_feret.petiole,,
+Ciclev10005012m,regulation of transcription,0.0905,Biological Process,9,GEMMA_feret.petiole,,
+Ciclev10014164m,carbon fixation,0.000239,Biological Process,2,GEMMA_breadth.leaf,,
+Ciclev10014164m,tricarboxylic acid cycle,0.00231,Biological Process,2,GEMMA_breadth.leaf,,
+Ciclev10014164m,phosphoenolpyruvate carboxylase activity,0.000149,Molecular function,2,GEMMA_breadth.leaf,,
+Ciclev10014164m,catalytic activity,0.0435,Molecular function,2,GEMMA_breadth.leaf,,
+Ciclev10017333m,NA,NA,NA,2,GEMMA_area.petiole,,
+Ciclev10019664m,NA,NA,NA,3,GEMMA_area.petiole,,
+Ciclev10031752m,NA,NA,NA,4,GEMMA_breadth.leaf,,
+Ciclev10025341m,RNA processing,0.00972,Biological Process,7,GEMMA_area.petiole,,
+Ciclev10025341m,ribonuclease III activity,0.000648,Molecular function,7,GEMMA_area.petiole,,
